@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UrChallenge</string>
+    <integer name="com_vk_sdk_AppId">6327112</integer>
+    <string name="apps_name">UrChallenge</string>
+    <string name="intro">Добро пожаловать в UrChallenge!</string>
+    <string name="login">Войти с помощью ВКонтакте</string>
+    <string name="make_photo">Make Photo</string>
+    <string name="hello_world">Hello, World!</string>
+</resources>
